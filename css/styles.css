@@ -6,6 +6,12 @@
     display: flex;
      /* background-color: black;  */
      color: white;
+     align-items: center;
+     align-content: center;
+     position: sticky;
+     top: 0;
+     cursor: pointer;
+
 }
 .logo img{
     width:25%;
